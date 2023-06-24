@@ -13,6 +13,8 @@ The Dice App is a straightforward mobile application that emulates the action of
 The Dice App is developed utilizing the following technologies:
 
 Framework: Flutter
+
 Programming Language: Dart
+
 Integrated Development Environment: Android Studio
 
