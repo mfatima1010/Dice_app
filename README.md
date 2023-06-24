@@ -10,3 +10,9 @@ The Dice App is a straightforward mobile application that emulates the action of
    2) Realistic Dice Rolling Experience:
     The app aims to replicate the genuine sensation of rolling a dice. Users can enjoy the excitement and randomness of a dice throw in a virtual environment, enhancing their overall gaming experience.
 
+The Dice App is developed utilizing the following technologies:
+
+Framework: Flutter
+Programming Language: Dart
+Integrated Development Environment: Android Studio
+
