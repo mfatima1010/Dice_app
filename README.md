@@ -1,13 +1,5 @@
 # Dice_app
-A new Flutter project.
-Getting Started
 
-This project is a starting point for a Flutter application.
+The Dice App is a straightforward mobile application that emulates the action of rolling a dice. Whenever the user taps a button, the app will exhibit a random dice image, replicating the sensation of physically rolling an actual dice.
 
-A few resources to get you started if this is your first Flutter project:
-
-    Lab: Write your first Flutter app
-    Cookbook: Useful Flutter samples
-
-For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
